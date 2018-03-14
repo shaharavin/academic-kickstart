@@ -10,31 +10,34 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Existential and Global Catastrophic Risk",
+    "Social Epistemology",
+    "Models, Simulations and Games",
+    "Citizen Science"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Philosophy of Science"
+  institution = "University of Cambridge"
+  year = 2014
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA + MSci in Natural Sciences"
+  institution = "University of Cambridge"
+  year = 2010
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a Postdoc Researcher at the Centre for the Study of Existential Risk (CSER) at the University of Cambridge. My research examines challenges and opportunities in the implementation of risk mitigation strategies, particularly in areas involving high uncertainty and heterogeneous or conflicting interests and incentives. Mixing anthropological methods and agent-based modelling, I work with other CSER researchers and others in the existential risk community to identify and design opportunities for impact.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Prior to CSER, going backwords in time, I:
+* worked at Google for a year as a mobile/web software engineer,
+* wrote a philosophy of science PhD on the allocation of public funds to research projects
+* did a physics/HPS undergrad
+* served in the IDF
+* was a very geeky underaged human (now no longer underaged)
+
+I've also worked at and with several startups over the years.
