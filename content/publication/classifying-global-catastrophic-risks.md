@@ -64,5 +64,7 @@ highlight = false
 # image = "headers/bubbles-wide.jpg"
 # caption = "My caption 😄"
 
+tags = ["GCR"]
+
 +++
 

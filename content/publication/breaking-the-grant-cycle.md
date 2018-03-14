@@ -64,6 +64,8 @@ highlight = false
 # image = "headers/bubbles-wide.jpg"
 # caption = "My caption 😄"
 
+tags = ["science funding"]
+
 +++
 
 No-one can assess
