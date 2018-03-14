@@ -38,7 +38,7 @@ selected = false
 projects = ["simulating-science-funding"]
 
 # Links (optional).
-url_official = "https://link.springer.com/chapter/10.1007/978-3-319-23015-3_9"
+url_pdf = "https://link.springer.com/chapter/10.1007/978-3-319-23015-3_9"
 url_preprint = "pdf/funding-science-by-lottery-preprint.pdf"
 url_code = ""
 url_dataset = ""
