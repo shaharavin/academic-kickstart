@@ -31,6 +31,6 @@ weight = 5
 
 # Biography
 
-I'm a Postdoc at the Centre for the Study of Existential Risk. My research examines challenges and opportunities in the implementation of risk mitigation strategies, particularly in areas involving high uncertainty and heterogeneous or conflicting interests and incentives. I work with CSER researchers and others in the existential risk community to identify and design opportunities for impact, through organising workshops, building agent-based models, and by frequently asking naive questions.
+I'm a postdoctoral researcher at the Centre for the Study of Existential Risk (CSER). My research involves working with CSER researchers and others in the global catastrophic risk community to identify and design risk prevention strategies, through organising workshops, building agent-based models, and by frequently asking naive questions.
 
 Prior to CSER, going backwords in time, I worked at Google for a year as a mobile/web software engineer; wrote a philosophy of science PhD on the allocation of public funds to research projects; did a physics/HPS undergrad; served in the IDF; and was a very geeky underaged human (now no longer underaged). I've also worked at and with several startups over the years.
