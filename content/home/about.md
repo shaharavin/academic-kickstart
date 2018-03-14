@@ -31,6 +31,6 @@ weight = 5
 
 # Biography
 
-I'm a postdoctoral researcher at the Centre for the Study of Existential Risk (CSER). My research involves working with CSER researchers and others in the global catastrophic risk community to identify and design risk prevention strategies, through organising workshops, building agent-based models, and by frequently asking naive questions.
+I'm a postdoctoral researcher at the Centre for the Study of Existential Risk (CSER). I work with CSER researchers and others in the global catastrophic risk community to identify and design risk prevention strategies, through organising workshops, building agent-based models, and by frequently asking naive questions.
 
 Prior to CSER, I worked at Google for a year as a mobile/web software engineer. My PhD was in philosophy of science, on the allocation of public funds to research projects. My undergrad was in physics and philosophy of science, which followed my mandatory service in the IDF. I've also worked at and with several startups over the years.
