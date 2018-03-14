@@ -3,7 +3,7 @@ date = 2018-03-01 # Schedule page publish date.
 
 title = "Artificial Intelligence Risks"
 time_start = 2018-03-01T15:00:00
-time_end = 2030-06-01T17:00:00
+time_end = 2018-06-01T17:00:00
 abstract = ""
 abstract_short = ""
 event = "Interaction with machine learning CS MPhil course"
@@ -35,5 +35,7 @@ highlight = false
 #[header]
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption :smile:"
+
+tags = ["AI"]
 
 +++
