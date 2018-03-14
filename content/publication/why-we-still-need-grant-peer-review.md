@@ -63,6 +63,6 @@ highlight = false
 # image = "headers/bubbles-wide.jpg"
 # caption = "My caption 😄"
 
-tags = ["science funding"]
+tags = ["science-funding"]
 
 +++
