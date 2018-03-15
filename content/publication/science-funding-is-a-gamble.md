@@ -1,5 +1,5 @@
 +++
-title = "Funding science by lottery"
+title = "Science funding is a gamble so let’s give out money by lottery"
 
 # Date first published.
 date = "2017-03-21"
@@ -50,7 +50,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Aeon", url = "https://aeon.co/ideas/science-funding-is-a-gamble-so-lets-give-out-money-by-lottery"}]
+url_custom = [{name = "Aeon", url = "https://aeon.co/ideas/science-funding-is-a-gamble-so-lets-give-out-money-by-lottery"}]
 
 # Does the content use math formatting?
 math = false
