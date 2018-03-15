@@ -56,7 +56,8 @@ url_custom = [
   {name = "Wired Opinion", url="http://www.wired.co.uk/article/ai-security-malicious-threats-open-ai-cambridge-cser"},
   {name = "Wired", url="https://www.wired.com/story/why-artificial-intelligence-researchers-should-be-more-paranoid/"},
   {name = "The Verge", url = "https://www.theverge.com/2018/2/20/17032228/ai-artificial-intelligence-threat-report-malicious-uses"},
-  {name = "CyberLaw podcast", url="https://www.steptoe.com/en/news-publications/the-cyberlaw-podcast-interview-with-miles-brundage-and-shahar-avin.html"}
+  {name = "CyberLaw podcast", url="https://www.steptoe.com/en/news-publications/the-cyberlaw-podcast-interview-with-miles-brundage-and-shahar-avin.html"},
+  {name = "SecurityNow", url="https://www.securitynow.com/author.asp?section_id=695&doc_id=741456&"}
 ]
 
 # Does the content use math formatting?
