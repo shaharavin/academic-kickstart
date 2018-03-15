@@ -23,7 +23,7 @@ publication = "[maliciousaireport.com](http://maliciousaireport.com)"
 
 # Abstract and optional shortened version.
 abstract = "This report surveys the landscape of potential security threats from malicious uses of AI, and proposes ways to better forecast, prevent, and mitigate these threats. After analyzing the ways in which AI may influence the threat landscape in the digital, physical, and political domains, we make four high-level recommendations for AI researchers and other stakeholders. We also suggest several promising areas for further research that could expand the portfolio of defenses, or make attacks less effective or harder to execute. Finally, we discuss, but do not conclusively resolve, the long-term equilibrium of attackers and defenders."
-short_abstract = "Risks and responses to near-term malicious use of AI/ML."
+abstract_short = "Risks and responses to near-term malicious use of AI/ML."
 
 # Featured image thumbnail (optional)
 image_preview = ""

@@ -23,7 +23,7 @@ publication = "In *RT. A Journal on Research Policy and Evaluation*"
 
 # Abstract and optional shortened version.
 abstract = "There are now several proposals for introducing random elements into the process of funding allocation for research, and some initial implementation of this policy by funding bodies. The proposals have been supported on efficiency grounds, with models, including social epistemology models, showing random allocation could increase the generation of significant truths in a community of scientists when compared to funding by peer review. The models in the literature are, however, fairly abstract (by necessity). This paper introduces some of the considerations that are required to build on the modelling work towards a fully-fledged policy proposal, including issues of cost and fairness."
-short_abstract = "Expanding on the policy implications of the model results in my PhD thesis."
+abstract_short = "Expanding on the policy implications of the model results in my PhD thesis."
 
 # Featured image thumbnail (optional)
 image_preview = ""

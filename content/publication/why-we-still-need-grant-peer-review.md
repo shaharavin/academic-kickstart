@@ -23,6 +23,7 @@ publication = "In *EMBO Reports*."
 
 # Abstract and optional shortened version.
 abstract = "A comment on \"From funding agencies to scientific agency\" by Bollen et al."
+abstract_short ="A comment on \"From funding agencies to scientific agency\" by Bollen et al."
 
 # Featured image thumbnail (optional)
 image_preview = ""

@@ -23,7 +23,7 @@ publication = "In *Aeon*"
 
 # Abstract and optional shortened version.
 abstract = "Science is expensive, and since we can’t fund every scientist, we need some way of deciding whose research deserves a chance. So, how do we pick? At the moment, expert reviewers spend a lot of time allocating grant money by trying to identify the best work. But the truth is that they’re not very good at it, and that the process is a huge waste of time. It would be better to do away with the search for excellence, and to fund science by lottery."
-short_abstract = "Popular version of the argument made in my PhD thesis."
+abstract_short = "Popular version of the argument made in my PhD thesis."
 
 # Featured image thumbnail (optional)
 image_preview = ""

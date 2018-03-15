@@ -23,7 +23,7 @@ publication = "In *The British Journal for the Philosophy of Science*"
 
 # Abstract and optional shortened version.
 abstract = "Computer simulation of an epistemic landscape model, modified to include explicit representation of a centralized funding body, show the method of funding allocation has significant effects on communal trade-off between exploration and exploitation, with consequences for the community's ability to generate significant truths. The results show this effect is contextual, and depends on the size of the landscape being explored, with funding that includes explicit random allocation performing significantly better than peer-review on large landscapes. The paper proposes a way of incorporating external institutional factors in  formal social epistemology, and offers a way of bringing such investigations to bear on current research policy questions."
-short_abstract = "Extension of the model developed in my PhD thesis."
+abstract_short = "Extension of the model developed in my PhD thesis."
 
 # Featured image thumbnail (optional)
 image_preview = ""
