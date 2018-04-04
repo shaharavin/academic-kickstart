@@ -29,6 +29,9 @@ googleAnalytics = "UA-115760039-1"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
+# Enable generation of robots.txt file
+enableRobotsTXT = true
+
 [outputs]
   home = [ "HTML", "CSS", "RSS" ]
   section = [ "HTML", "RSS" ]
