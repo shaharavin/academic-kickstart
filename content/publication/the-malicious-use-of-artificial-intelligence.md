@@ -60,7 +60,8 @@ url_custom = [
   {name = "SecurityNow", url="https://www.securitynow.com/author.asp?section_id=695&doc_id=741456&"},
   {name = "World Economic Forum", url="https://www.weforum.org/agenda/2018/03/3-ways-ai-could-threaten-our-world-and-what-we-need-to-do-to-stay-safe"},
   {name = "People's Daily", url="http://finance.people.com.cn/n1/2018/0403/c1004-29903894.html"},
-  {name = "כלכליסט", url="https://www.calcalist.co.il/local/articles/0,7340,L-3735098,00.html"}
+  {name = "כלכליסט", url="https://www.calcalist.co.il/local/articles/0,7340,L-3735098,00.html"},
+  {name = "Deutsche Welle", url="http://www.dw.com/en/this-cyberwar-just-got-real/a-43908697"}
 ]
 
 # Does the content use math formatting?
