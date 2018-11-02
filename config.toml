@@ -219,17 +219,17 @@ enableRobotsTXT = true
 
   [[params.social]]
     icon = "envelope"
-    icon_pack = "fa"
+    icon_pack = "fas"
     link = "mailto:shahar.avin@gmail.com"
 
   #[[params.social]]
   #  icon = "twitter"
   #  icon_pack = "fa"
   #  link = "//twitter.com/GeorgeCushen"
-  
+
   [[params.social]]
     icon = "linkedin"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//www.linkedin.com/in/shaharavin/"
 
   [[params.social]]
@@ -239,9 +239,9 @@ enableRobotsTXT = true
 
   [[params.social]]
     icon = "github"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//github.com/shaharavin"
-    
+
   [[params.social]]
     icon = "publons"
     icon_pack = "ai"
