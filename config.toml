@@ -271,13 +271,13 @@ enableRobotsTXT = true
 #  weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Talks & Podcasts"
+  url = "#talks"
   weight = 4
 
 [[menu.main]]
-  name = "Talks"
-  url = "#talks"
+  name = "Projects"
+  url = "#projects"
   weight = 5
 
 [[menu.main]]
