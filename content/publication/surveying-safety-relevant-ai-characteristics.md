@@ -5,7 +5,7 @@ title = "Surveying Safety-relevant AI Characteristics"
 date = "2019-01-27"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jose Hernandez-Orallo", "Fernando Martínez-Plumed", "Shahar Avin", "Sean O Heigeartaigh"]
+authors = ["Jose Hernandez-Orallo", "Fernando Martínez-Plumed", "Shahar Avin", "Seán Ó hÉigeartaigh"]
 
 # Publication type.
 # Legend:
