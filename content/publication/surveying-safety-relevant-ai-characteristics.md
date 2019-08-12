@@ -23,13 +23,13 @@ publication = "In *Proceedings of the AAAI Workshop on Artificial Intelligence S
 
 # Abstract and optional shortened version.
 abstract = "The current analysis in the AI safety literature usually combines a risk or safety issue (e.g., interruptibility) with a particular paradigm for an AI agent (e.g., reinforcement learning). However, there is currently no survey of safety-relevant characteristics of AI systems that may reveal neglected areas of research or suggest to developers what design choices they could make to avoid or minimise certain safety concerns. In this paper, we take a first step towards delivering such a survey, from two angles. The first features AI system characteristics that are already known to be relevant to safety concerns, including internal system characteristics, characteristics relating to the effect of the external environment on the system, and characteristics relating to the effect of the system on the target environment. The second presents a brief survey of a broad range of AI system characteristics that could prove relevant to safety research, including types of interaction, computation, integration, anticipation, supervision, modification, motivation and achievement. This survey enables further work in exploring system characteristics and design choices that affect safety concerns."
-abstract_short = "Survey of known and potential safety-relevant AI characteristics, covering internal characteristics, system-environment effects, and training."
+summary = "Survey of known and potential safety-relevant AI characteristics, covering internal characteristics, system-environment effects, and training."
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

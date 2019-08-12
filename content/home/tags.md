@@ -3,6 +3,7 @@
 widget = "tag_cloud"
 active = true
 date = 2017-09-20
+headless = true
 
 title = "Tags"
 subtitle = ""

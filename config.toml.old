@@ -42,11 +42,15 @@ enableRobotsTXT = true
   hrefTargetBlank = true  # `true` opens external links in a new tab.
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+  extensions = ["backslashLineBreak"]
 
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
   color_theme = "ocean"
+
+  # Enable users to switch between day and night mode?
+  day_night = true
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -230,7 +234,7 @@ enableRobotsTXT = true
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fab"
-    link = "//www.linkedin.com/in/shaharavin/"
+    link = "https://www.linkedin.com/in/shaharavin/"
 
   [[params.social]]
     icon = "google-scholar"
@@ -240,7 +244,7 @@ enableRobotsTXT = true
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "//github.com/shaharavin"
+    link = "https://github.com/shaharavin"
 
   [[params.social]]
     icon = "publons"

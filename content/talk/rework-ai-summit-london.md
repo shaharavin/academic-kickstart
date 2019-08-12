@@ -1,11 +1,11 @@
 +++
-date = 2018-03-16 # Schedule page publish date.
+publishDate = 2018-03-16 # Schedule page publish date.
 
 title = "Panel Discussion - Security & Privacy"
-time_start = 2018-03-16T14:10:00
-time_end = 2018-03-16T14:35:00
+date = 2018-03-16T14:10:00
+date_end = 2018-03-16T14:35:00
 abstract = "AI holds great promise but also significant threat. As AI capabilities continue to advance at a rapid pace, so does the risk to both company and consumer. In this panel discussion we will bring together experts in AI security as well as those facing giant risks when advancing AI in their business. How do we keep AI safe from adversaries? How can we guard against mistakes? How do we protect against unintended consequences?"
-abstract_short = "Have Security & Privacy Risks Become the Ultimate Obstacle for AI & its Rapid Growth?"
+summary = "Have Security & Privacy Risks Become the Ultimate Obstacle for AI & its Rapid Growth?"
 event = "RE-WORK Deep Learning in Finance Summit"
 event_url = "https://www.re-work.co/events/deep-learning-in-finance-summit-london-2018/schedule#day_2"
 location = "London, United Kingdom"

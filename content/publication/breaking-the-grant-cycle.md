@@ -16,20 +16,21 @@ authors = ["Shahar Avin"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+# 7 = Thesis
+publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
 publication = "PhD thesis."
 
 # Abstract and optional shortened version.
 abstract = "The thesis presents a reformative criticism of science funding by peer review. The criticism is based on epistemological scepticism, regarding the ability of scientific peers, or any other agent, to have access to sufficient information regarding the potential of proposed projects at the time of funding. The scepticism is based on the complexity of factors contributing to the merit of scientific projects, and the rate at which the parameters of this complex system change their values. By constructing models of different science funding mechanisms, a construction supported by historical evidence, computational simulations show that in a significant subset of cases it would be better to select research projects by a lottery mechanism than by selection based on peer review. This last result is used to create a template for an alternative funding mechanism that combines the merits of peer review with the benefits of random allocation, while noting that this alternative is not so far removed from current practice as may first appear."
-abstract_short = "Agent-based simulations of hypothetical research communities show random allocation can outperform selection by potential merit under certain conditions."
+summary = "Agent-based simulations of hypothetical research communities show random allocation can outperform selection by potential merit under certain conditions."
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

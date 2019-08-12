@@ -23,13 +23,13 @@ publication = "In *Futures*"
 
 # Abstract and optional shortened version.
 abstract = "We present a novel classification framework for severe global catastrophic risk scenarios. Extending beyond existing work that identifies individual risk scenarios, we propose analysing global catastrophic risks along three dimensions: the critical systems affected, global spread mechanisms, and prevention and mitigation failures. The classification highlights areas of convergence between risk scenarios, which supports prioritisation of particular research and of policy interventions. It also points to potential knowledge gaps regarding catastrophic risks, and provides an interdisciplinary structure for mapping and tracking the multitude of factors that could contribute to global catastrophic risks."
-abstract_short = "Classifying GCRs based on critical system breached, global spread mechanism, and human prevention and mitigation failure."
+summary = "Classifying GCRs based on critical system breached, global spread mechanism, and human prevention and mitigation failure."
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

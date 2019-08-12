@@ -1,11 +1,11 @@
 +++
-date = 2018-03-01 # Schedule page publish date.
+publishDate = 2018-03-01 # Schedule page publish date.
 
 title = "Exploring artificial intelligence futures"
-time_start = 2018-08-16T15:40:00
-time_end = 2018-08-16T16:10:00
+date = 2018-08-16T15:40:00
+date_end = 2018-08-16T16:10:00
 abstract = "“Artificial intelligence” (AI) is one of the more hyped-up terms in our current world, across academia, industry, policy and society. But what is AI? What is the present state of AI? What are possible futures of AI? How can we explore such futures?" 
-abstract_short = "High level sketch of possible AI futures and methods for exploring them."
+summary = "High level sketch of possible AI futures and methods for exploring them."
 event = "AIHumanities2018"
 event_url = "http://aihumanities.org/aih2018/"
 location = "Seoul, South Korea"

@@ -23,13 +23,13 @@ publication = "[maliciousaireport.com](http://maliciousaireport.com)"
 
 # Abstract and optional shortened version.
 abstract = "This report surveys the landscape of potential security threats from malicious uses of AI, and proposes ways to better forecast, prevent, and mitigate these threats. After analyzing the ways in which AI may influence the threat landscape in the digital, physical, and political domains, we make four high-level recommendations for AI researchers and other stakeholders. We also suggest several promising areas for further research that could expand the portfolio of defenses, or make attacks less effective or harder to execute. Finally, we discuss, but do not conclusively resolve, the long-term equilibrium of attackers and defenders."
-abstract_short = "Risks and responses to near-term malicious use of AI/ML."
+summary = "Risks and responses to near-term malicious use of AI/ML."
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -50,7 +50,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [
+links = [
   {name = "BBC", url = "http://www.bbc.co.uk/news/technology-43127533"},
   {name = "New York Times", url="https://www.nytimes.com/2018/02/20/technology/artificial-intelligence-risks.html"},
   {name = "Wired Opinion", url="http://www.wired.co.uk/article/ai-security-malicious-threats-open-ai-cambridge-cser"},

@@ -1,11 +1,12 @@
 +++
-date = 2018-09-28 # Schedule page publish date.
+publishDate = 2018-09-28 # Schedule page publish date.
 
 title = "פודקאסט הכמוסה - מדברים על סוף העולם"
-time_start = 2018-09-28T00:00:00
+date = 2018-09-28T00:00:00
+all_day = true
 # time_end = 2017-09-27T00:30:00
 abstract = "Talking to Israel's bestselling economics daily about the end of the world (In Hebrew)."
-abstract_short = "Talking to Israel's bestselling economics daily about the end of the world (In Hebrew)."
+summary = "Talking to Israel's bestselling economics daily about the end of the world (In Hebrew)."
 event = "פודקאסט הכמוסה"
 event_url = "https://www.calcalist.co.il/local/home/0,7340,L-5467,00.html"
 
@@ -25,7 +26,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [
+links = [
   {name = "Website", url = "https://www.calcalist.co.il/local/articles/0,7340,L-3746615,00.html"},
   {name = "Listen", url = "https://soundcloud.com/user-472506911-788134524/11a"}
 ]

@@ -23,13 +23,13 @@ publication = "Forthcoming in *Philosophers Imprint*"
 
 # Abstract and optional shortened version.
 abstract = "Pluralism about scientific method is more-or-less accepted, but the consequences have yet to be drawn out. Scientists adopt different methods in response to different epistemic situations: depending on the system they are interested in, the resources at their disposal, and so forth. If it is right that different methods are appropriate in different situations, then mismatches between methods and situations are possible. This is most likely to occur due to method bias: when we prefer a particular kind of method, despite that method clashing with evidential context or our aims. To explore these ideas, we sketch a kind of method pluralism which turns on two properties of evidence, before using agent-based models to examine the relationship between methods, epistemic situations, and bias. Based on our results, we suggest that although method bias can undermine the efficiency of a scientific community, it can also be productive through preserving a diversity of evidence. We consider circumstances where method bias could be particularly egregious, and those where it is a potential virtue, and argue that consideration of method bias reveals that community standards deserve a central place in the epistemology of science." 
-abstract_short = "Modelling different approaches to evidence gathering."
+summary = "Modelling different approaches to evidence gathering."
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

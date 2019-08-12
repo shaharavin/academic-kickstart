@@ -23,13 +23,13 @@ publication = "In *EMBO Reports*."
 
 # Abstract and optional shortened version.
 abstract = "A comment on \"From funding agencies to scientific agency\" by Bollen et al."
-abstract_short ="A comment on \"From funding agencies to scientific agency\" by Bollen et al."
+summary ="A comment on \"From funding agencies to scientific agency\" by Bollen et al."
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

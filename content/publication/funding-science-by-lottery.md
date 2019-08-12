@@ -23,13 +23,13 @@ publication = "In *Recent Developments in the Philosophy of Science: EPSA13 Hels
 
 # Abstract and optional shortened version.
 abstract = "Motivated by recent criticisms of the low reliability and high costs of science funding allocation by grant peer review, the paper investigates the alternative of funding science by lottery, and more generally the possible introduction of a formal random element in the funding process. At first it may seem that randomness will lower expected efficiency, by allocating funds to less meritorious projects. By focusing on the notion that we want funded research projects to ultimately make our lives better, and the observation that the causal effect of research projects is subject to change over time, the paper argues that the introduction of randomness can counteract a bias towards the familiar present in grant peer review, and thus increase the overall efficiency of science funding. The time-dependant nature of scientific merit is exemplified by the historical processes leading to the discovery of the structure of DNA. The argument regarding the relative effectiveness of random allocation is supported by a computer simulation of different funding mechanisms on a hypothetical dynamic epistemic landscape."
-abstract_short = "Early quick overview of the argument made in my PhD thesis."
+summary = "Early quick overview of the argument made in my PhD thesis."
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
