@@ -1,5 +1,5 @@
 +++
-title = "Metohd Pluralism, Method Mismatch & Method Bias"
+title = "Method Pluralism, Method Mismatch & Method Bias"
 
 # Date first published.
 date = "2019-04-30"
