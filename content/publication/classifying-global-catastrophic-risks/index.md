@@ -1,11 +1,11 @@
 +++
-title = "Why We Still Need Grant Peer Review"
+title = "Classifying global catastrophic risks"
 
 # Date first published.
-date = "2014-05-02"
+date = "2018-02-23"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Shahar Avin"]
+authors = ["Shahar Avin", "Bonnie C Wintle", "Julius Weitzdörfer", "Seán S Ó hÉigeartaigh", "William J Sutherland", "Martin J Rees"]
 
 # Publication type.
 # Legend:
@@ -19,17 +19,17 @@ authors = ["Shahar Avin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *EMBO Reports*."
+publication = "In *Futures*"
 
 # Abstract and optional shortened version.
-abstract = "A comment on \"From funding agencies to scientific agency\" by Bollen et al."
-summary ="A comment on \"From funding agencies to scientific agency\" by Bollen et al."
+abstract = "We present a novel classification framework for severe global catastrophic risk scenarios. Extending beyond existing work that identifies individual risk scenarios, we propose analysing global catastrophic risks along three dimensions: the critical systems affected, global spread mechanisms, and prevention and mitigation failures. The classification highlights areas of convergence between risk scenarios, which supports prioritisation of particular research and of policy interventions. It also points to potential knowledge gaps regarding catastrophic risks, and provides an interdisciplinary structure for mapping and tracking the multitude of factors that could contribute to global catastrophic risks."
+summary = "Classifying GCRs based on critical system breached, global spread mechanism, and human prevention and mitigation failure."
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -38,13 +38,13 @@ featured = false
 projects = []
 
 # Links (optional).
-url_pdf = "http://onlinelibrary.wiley.com/doi/10.1002/embr.201438671/epdf"
-url_preprint = "pdf/why-we-still-need-grant-peer-review-preprint.pdf"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0016328717301957"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = ""
-url_video = ""
+url_slides = "classifying-global-catastrophic-risks-slides.pptx"
+url_video = "https://www.youtube.com/watch?v=5sIOQzZAzuY"
 url_poster = ""
 url_source = ""
 
@@ -64,6 +64,7 @@ highlight = false
 # image = "headers/bubbles-wide.jpg"
 # caption = "My caption 😄"
 
-tags = ["Science Funding"]
+tags = ["GCR"]
 
 +++
+

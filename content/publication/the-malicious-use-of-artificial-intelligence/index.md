@@ -5,7 +5,7 @@ title = "The Malicious Use of Artificial Intelligence: Forecasting, Prevention, 
 date = "2018-02-20"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["[Miles Brundage](http://www.milesbrundage.com/)", "Shahar Avin", "Jack Clark", "Helen Toner", "Peter Eckersley", "Ben Garfinkel", "Allan Dafoe", "Paul Scharre", "Thomas Zeitzoff", "Bobby Filar", "Hyrum Anderson", "Heather Roff", "Gregory C Allen", "Jacob Steinhardt", "Carrick Flynn", "Seán Ó hÉigeartaigh", "Simon Beard", "Haydn Belfield", "Sebastian Farquhar", "Clare Lyle", "Rebecca Crootof", "Owain Evans", "Michael Page", "Joanna Bryson", "Roman Yampolskiy", "Dario Amodei"]
+authors = ["Miles Brundage", "Shahar Avin", "Jack Clark", "Helen Toner", "Peter Eckersley", "Ben Garfinkel", "Allan Dafoe", "Paul Scharre", "Thomas Zeitzoff", "Bobby Filar", "Hyrum Anderson", "Heather Roff", "Gregory C Allen", "Jacob Steinhardt", "Carrick Flynn", "Seán Ó hÉigeartaigh", "Simon Beard", "Haydn Belfield", "Sebastian Farquhar", "Clare Lyle", "Rebecca Crootof", "Owain Evans", "Michael Page", "Joanna Bryson", "Roman Yampolskiy", "Dario Amodei"]
 
 # Publication type.
 # Legend:
@@ -43,7 +43,7 @@ url_preprint = "https://arxiv.org/abs/1802.07228"
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = "ppt/malicious-use-of-ai.pptx"
+url_slides = "malicious-use-of-ai.pptx"
 url_video = "https://www.youtube.com/watch?v=AVlY8Gzk_GA"
 url_poster = ""
 url_source = ""

@@ -1,8 +1,8 @@
 +++
-title = "Exploring artificial intelligence futures"
+title = "Why We Still Need Grant Peer Review"
 
 # Date first published.
-date = "2018-12-17"
+date = "2014-05-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Shahar Avin"]
@@ -19,11 +19,11 @@ authors = ["Shahar Avin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of AI Humanities*."
+publication = "In *EMBO Reports*."
 
 # Abstract and optional shortened version.
-abstract = "Artificial intelligence technologies are receiving high levels of attention and 'hype', leading to a range of speculation about futures in which such technologies, and their successors, are commonly deployed. By looking at existing AI futures work, this paper surveys, and offers an initial categorisation of, several of the tools available for such futures-exploration, in particular those available to humanities scholars, and discusses some of the benefits and limitations of each. While no tools exist to reliably predict the future of artificial intelligence, several tools can help us expand our range of possible futures in order to reduce unexpected surprises, and to create common languages and models that enable constructive conversations about the kinds of futures we would like to occupy or avoid. The paper points at several tools as particularly promising and currently neglected, calling for more work in data-driven, realistic, integrative, and participatory scenario role-plays."
-summary ="Reviews different methods to explore AI futures, including fiction, single-discipline studies, several multidisciplinary approches, and interactive methods."
+abstract = "A comment on \"From funding agencies to scientific agency\" by Bollen et al."
+summary ="A comment on \"From funding agencies to scientific agency\" by Bollen et al."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -38,8 +38,8 @@ featured = false
 projects = []
 
 # Links (optional).
-url_pdf = "publication/pdf/exploring-artificial-intelligence-futures.pdf"
-url_preprint = ""
+url_pdf = "http://onlinelibrary.wiley.com/doi/10.1002/embr.201438671/epdf"
+url_preprint = "why-we-still-need-grant-peer-review-preprint.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -64,6 +64,6 @@ highlight = false
 # image = "headers/bubbles-wide.jpg"
 # caption = "My caption 😄"
 
-tags = ["AI"]
+tags = ["Science Funding"]
 
 +++

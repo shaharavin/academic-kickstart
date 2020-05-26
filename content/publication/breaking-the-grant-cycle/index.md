@@ -46,7 +46,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "pdf/breaking-the-grant-cycle-poster.pdf"
+url_poster = "breaking-the-grant-cycle-poster.pdf"
 url_source = ""
 
 # Custom links (optional).

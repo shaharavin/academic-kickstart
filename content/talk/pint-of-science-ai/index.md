@@ -20,7 +20,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "ppt/pint-of-science-ai.pptx"
+url_slides = "pint-of-science-ai.pptx"
 url_video = ""
 url_code = ""
 
