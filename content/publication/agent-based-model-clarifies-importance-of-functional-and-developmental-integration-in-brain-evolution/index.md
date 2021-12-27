@@ -5,7 +5,7 @@ title = "An agent-based model clarifies the importance of functional and develop
 date = "2021-05-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Shahar Avin"]
+authors = ["Shahar Avin", "Adrian Currie", "Stephen H Montgomery"]
 
 # Publication type.
 # Legend:
