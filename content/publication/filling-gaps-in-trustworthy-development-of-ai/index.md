@@ -59,6 +59,8 @@ url_source:
 url_video:
 
 links:
+- name: Science
+  url: https://www.science.org/stoken/author-tokens/ST-240/full
 - name: Gizmodo
   url: https://gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849
 
