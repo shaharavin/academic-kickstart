@@ -20,7 +20,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "artificial-intelligence-risks-slides.pptx"
+#url_slides = "artificial-intelligence-risks-slides.pptx"
 url_video = ""
 url_code = ""
 
