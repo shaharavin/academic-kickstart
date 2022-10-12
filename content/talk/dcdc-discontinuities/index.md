@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "DCDC Discontinuities.ppt"
+#url_slides: "DCDC Discontinuities.ppt"
 
 url_code:
 url_pdf:
