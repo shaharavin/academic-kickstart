@@ -20,7 +20,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "Exploring AI Futures - AIHumanities.pptx"
+#url_slides = "Exploring AI Futures - AIHumanities.pptx"
 url_video = ""
 url_code = ""
 
