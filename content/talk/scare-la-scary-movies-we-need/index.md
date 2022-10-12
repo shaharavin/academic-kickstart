@@ -20,7 +20,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "scare-la-scary-movies-we-need.pptx"
+#url_slides = "scare-la-scary-movies-we-need.pptx"
 url_video = ""
 url_code = ""
 
