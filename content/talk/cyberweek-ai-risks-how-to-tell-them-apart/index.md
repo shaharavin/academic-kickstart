@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "AIRisksCyberWeek.pptx"
+#url_slides: "AIRisksCyberWeek.pptx"
 
 url_code:
 url_pdf:

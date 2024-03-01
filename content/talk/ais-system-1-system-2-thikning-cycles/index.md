@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "AIS system 1 and system 2 cycles.pdf"
+#url_slides: "AIS system 1 and system 2 cycles.pdf"
 
 url_code:
 url_pdf:
