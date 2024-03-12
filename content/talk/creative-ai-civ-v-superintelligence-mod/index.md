@@ -20,7 +20,7 @@ projects = ["civ-v-superintelligence"]
 
 # Links (optional).
 url_pdf = ""
-#url_slides = "create-ai-civ-v-superintelligence-mod-slides.pptx"
+url_slides = "create-ai-civ-v-superintelligence-mod-slides.pptx"
 url_video = ""
 url_code = ""
 
