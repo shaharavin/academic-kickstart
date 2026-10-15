@@ -1,11 +1,11 @@
 +++
-title = "Responsible artificial intelligence in agriculture requires systemic understanding of risks and externalities"
+title = "Rewards, risks and responsible deployment of artificial intelligence in water systems"
 
 # Date first published.
-date = "2022-02-23"
+date = "2023-05-11"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Asaf Tzachor", "Medha Devare", "Brian King", "Shahar Avin", "Seán Ó hÉigeartaigh"]
+authors = ["Catherine E. Richards", "Asaf Tzachor", "Shahar Avin", "Richard Fenner"]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Asaf Tzachor", "Medha Devare", "Brian King", "Shahar Avin", "Seán �
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Nature Machine Intelligence*"
+publication = "In *Nature Water*"
 
 # Abstract and optional shortened version.
-abstract = "Global agriculture is poised to benefit from the rapid advance and diffusion of artificial intelligence (AI) technologies. AI in agriculture could improve crop management and agricultural productivity through plant phenotyping, rapid diagnosis of plant disease, efficient application of agrochemicals and assistance for growers with location-relevant agronomic advice. However, the ramifications of machine learning (ML) models, expert systems and autonomous machines for farms, farmers and food security are poorly understood and under-appreciated. Here, we consider systemic risk factors of AI in agriculture. Namely, we review risks relating to interoperability, reliability and relevance of agricultural data, unintended socio-ecological consequences resulting from ML models optimized for yields, and safety and security concerns associated with deployment of ML platforms at scale. As a response, we suggest risk-mitigation measures, including inviting rural anthropologists and applied ecologists into the technology design process, applying frameworks for responsible and human-centred innovation, setting data cooperatives for improved data transparency and ownership rights, and initial deployment of agricultural AI in digital sandboxes."
-summary = "Risk assessment of AI in agriculture."
+abstract = "Artificial intelligence (AI) is increasingly proposed to address deficiencies across water systems, which currently leave about 25% of the global population without clean water, about 50% without sanitation services and about 30% without hygiene facilities. AI is poised to enhance supply insights, catchment management and emergency response, improve treatment plant and distribution network design, operation and maintenance, and advance service availability, demand management and water justice. However, proliferation of this nascent technology could trigger serious and unexpected problems, including system-wide compromise owing to design errors, malfunction and cyberattacks as well as exposures to cascading socio-ecological, water–energy–food nexus and coupled critical infrastructure failures. In response, we make three recommendations for safe and responsible deployment of AI across potable water supply and sewage disposal systems: address gaps in foundational infrastructure and digital literacy; establish institutional, software and hardware mechanisms for trustworthy AI; and prioritize applications based on our proposed systematic benefit and risk assessment framework."
+summary = "Risk assessment of AI in water systems."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -38,7 +38,7 @@ featured = false
 projects = []
 
 # Links (optional).
-url_pdf = "https://biblio.iita.org/documents/S22ArtTzachorResponsibleInthomNodev.pdf-7534ce8347d769bedd90ac59f392cc87.pdf"
+url_pdf = "https://www.nature.com/articles/s44221-023-00069-6.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

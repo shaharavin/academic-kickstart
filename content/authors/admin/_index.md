@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Associate
+role: Assistant Research Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Centre for the Study of Existential Risk, University of Cambridge
-  url: "https://cser.ac.uk"
+- name: Institute for Technology and Humanity, University of Cambridge
+  url: "https://www.ith.cam.ac.uk"
+- name: Technology Strategy Roleplay
+  url: "https://intelligencerising.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on risks at the interface of Silicon and Carbon (and, occasionally, Plutonium).
@@ -23,6 +25,7 @@ bio: My research focuses on risks at the interface of Silicon and Carbon (and, o
 interests:
 - Existential Risk
 - Artificial Intelligence
+- Simulations and Games
 - Science Funding
 
 education:
@@ -70,6 +73,6 @@ email: "shahar.avin@gmail.com"
 # - Visitors
 ---
 
-Shahar Avin is a senior researcher associate at the Centre for the Study of Existential Risk (CSER). He works with CSER researchers and others in the global catastrophic risk community to identify and design risk prevention strategies, through organising workshops, building agent-based models, and by frequently asking naive questions.
+Shahar Avin is an Assistant Research Professor at the University of Cambridge Institute for Technology and Humanity (across the Centre for the Study of Existential Risk and the Leverhulme Centre for the Future of Intelligence), where he has studied catastrophic risk, primarily from AI, for a decade. He co-founded Technology Strategy Roleplay (TSR), a charity spin-out from academic work that designs and runs roleplay simulation exercises about AI futures for decision makers, including Intelligence Rising and Science 2030, and serves as its Chief Science Officer. In 2025–26 he worked at the UK AI Security Institute on Systemic Safety and Societal Resilience.
 
 Prior to CSER, Shahar worked at Google for a year as a mobile/web software engineer. His PhD was in philosophy of science, on the allocation of public funds to research projects. His undergrad was in physics and philosophy of science, which followed a mandatory service in the IDF. He has also worked at and with several startups over the years.
