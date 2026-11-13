@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SimScience</title>
+<meta name="description" content="SimScience, the science simulator. A silly web game about authority in scientific decisions. 2010, rebuilt 2026.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="canonical" href="https://www.shaharavin.com/simscience/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="SimScience">
+<meta property="og:description" content="The Science Simulator. Run a lab, chase authority, publish or perish. A silly game from 2010, rebuilt in 2026.">
+<meta property="og:url" content="https://www.shaharavin.com/simscience/">
+<meta property="og:image" content="https://www.shaharavin.com/simscience/preview.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<section id="menu" hidden>
+  <div class="menu-card">
+    <h1>SimScience</h1>
+    <p class="tagline">The Science Simulator. Run a lab, chase authority, publish or perish. One action per turn.</p>
+    <form id="new-game" autocomplete="off">
+      <label for="player-name">Start a new game. Your name:</label>
+      <div class="row">
+        <input id="player-name" maxlength="100" required placeholder="Dr …">
+        <button class="btn primary" type="submit">Start</button>
+      </div>
+    </form>
+    <h2>Continue a previous game</h2>
+    <ul id="saved" class="saved"></ul>
+    <p class="muted small">Games are saved in this browser only. Nothing is sent anywhere. The 2010 original ran on Google App Engine and was lovingly destroyed by web crawlers; this version has no server to crawl.</p>
+  </div>
+</section>
+
+<section id="game" hidden>
+  <header class="top">
+    <nav><a href="#" class="link">Main menu</a></nav>
+    <ul class="stats">
+      <li>Turn <b id="stat-turn">1</b></li>
+      <li>Cash <b id="stat-cash">$0</b></li>
+      <li>Authority <b id="stat-auth">0</b></li>
+    </ul>
+    <button id="share" class="link" title="Copy a link that opens a copy of this game">share snapshot</button>
+  </header>
+
+  <div class="lab-wrap">
+    <div class="lab-head"><span id="lab-title"></span><span id="action-note" class="muted" hidden>Action taken. End the turn to continue.</span></div>
+    <canvas id="lab" aria-label="Isometric view of your lab"></canvas>
+    <div id="lab-tip" class="tip" hidden></div>
+  </div>
+
+  <main class="grid">
+    <aside class="col">
+      <section class="panel">
+        <h3>Funding offers</h3>
+        <ul id="funding-list"></ul>
+        <button class="action" data-act="funding">Apply for funding</button>
+      </section>
+      <section class="panel">
+        <h3>Conferences</h3>
+        <ul id="conf-list"></ul>
+        <button class="action" data-act="conference">Go to a conference</button>
+      </section>
+      <section class="panel">
+        <h3>Potential research</h3>
+        <ul id="topics-list"></ul>
+        <button class="action" data-act="research">Start new research</button>
+      </section>
+    </aside>
+
+    <section class="col centre">
+      <section id="over-banner" class="panel over" hidden></section>
+      <section class="panel research">
+        <div id="tabs" role="tablist">
+          <button role="tab" data-tab="wip" aria-selected="true">Work in progress <span id="count-wip" class="count">0</span></button>
+          <button role="tab" data-tab="done" aria-selected="false">Unpublished <span id="count-done" class="count">0</span></button>
+          <button role="tab" data-tab="pub" aria-selected="false">Published <span id="count-pub" class="count">0</span></button>
+        </div>
+        <ul id="tab-wip" class="research-list"></ul>
+        <ul id="tab-done" class="research-list" hidden></ul>
+        <ul id="tab-pub" class="research-list" hidden></ul>
+      </section>
+      <div class="end-turn-wrap"><button id="end-turn" class="btn primary big">End turn</button></div>
+      <details class="panel log">
+        <summary>Lab notebook</summary>
+        <ul id="log-list"></ul>
+      </details>
+    </section>
+
+    <aside class="col">
+      <section class="panel">
+        <h3>Staff</h3>
+        <ul id="staff-list"></ul>
+        <button class="action" data-act="hire">Hire a scientist</button>
+      </section>
+      <section class="panel">
+        <h3>Equipment</h3>
+        <ul id="equipment-list"></ul>
+        <button class="action" data-act="equipment">Buy equipment</button>
+      </section>
+    </aside>
+  </main>
+</section>
+
+<dialog id="dlg">
+  <div class="dlg-head"><h2 id="dlg-title"></h2><button id="dlg-close" class="link" aria-label="Close">×</button></div>
+  <div id="dlg-body"></div>
+</dialog>
+<div id="toast" class="toast" hidden></div>
+
+<footer class="foot">
+  <span>SimScience, 2010. Rebuilt as a static page in 2026 with the original rules.</span>
+  <a href="https://www.shaharavin.com/" rel="author">Shahar Avin</a>
+</footer>
+
+<script src="rules.js"></script>
+<script src="lab.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
